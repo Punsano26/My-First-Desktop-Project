@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test study</description>
+   <name>TC01001 - Search-by-keyword - NPRU</name>
+   <tag>brabrabra</tag>
+   <comment></comment>
+   <testCaseGuid>7d1f8de9-89ab-4721-81f6-7947c2692806</testCaseGuid>
+</TestCaseEntity>
